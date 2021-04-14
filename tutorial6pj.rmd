@@ -6,3 +6,17 @@ output:
     bookdown::html_document2
 
 ---
+
+
+```{r global, include= FALSE}
+knitr::opts_chunk$set(echo = TRUE, fig.width = 8, fig.height = 8, fig.alig = "center")
+
+```
+
+# Libraries
+```{r, message =FALSE}
+library(tidyverse)
+library(gridExtra)
+
+```
+
