@@ -1,0 +1,8 @@
+---
+title: "Tutorial06 : Collaborating with others"
+author: "Prachi Jaiswal"
+date: "`r Sys.Date()`"
+output:
+    bookdown::html_document2
+
+---
